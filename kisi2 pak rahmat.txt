@@ -1,0 +1,56 @@
+    1. Apa yang dimaksud dengan sistem informasi ?
+    2. Jelaskan mengapa diperlukan pengembangan sistem informasi !
+    3. Apa saja fungsi sistem informasi dari segi bisnis ? (5)
+    4. Karena kerja komputer semakin cepat dan semakin murah harganya dan internet semakin luas digunakan, maka sebagian besar masalah dalam sistem informasi akan hilang. Setujukah anda? Mengapa?
+    5. Sistem informasi sangat penting sehingga harus ditangani oleh para ahli komputer. Setujukah anda? Mengapa?
+    6. Apa yang dimaksudkan dengan sistem informasi ? Jelaskan perbedaan antara data dan informasi ? Sebutkan contohnya !
+    7. Mengapa dewasa ini sistem informasi menjadi bidang yang penting dalam dunia bisnis ? Jelaskan !
+    8. Berikan contoh informasi-informasi yang digunakan pada tiap tingkatan manajerial (dari top manager sampai staffing) !
+    9. Berikan salah satu contoh sebuah system informasi yang kalian ketahui, dan mengapa diperlukan system tersebut ?
+    10. Apa perbedaan dari e commerce dan e bussines ?
+
+
+
+Sistem informasi adalah kombinasi dari teknologi informasi, orang, dan prosedur yang bekerja sama untuk mengumpulkan, memproses, menyimpan, dan mendistribusikan informasi untuk mendukung pengambilan keputusan, koordinasi, pengendalian, analisis, dan visualisasi dalam organisasi.
+
+Pengembangan sistem informasi diperlukan untuk meningkatkan efisiensi dan efektivitas operasional organisasi, memungkinkan pengambilan keputusan yang lebih baik, mengoptimalkan proses bisnis, dan memberikan keuntungan kompetitif melalui inovasi teknologi. Hal ini berkaitan dengan nomor 1 karena tanpa sistem informasi yang berkembang, organisasi tidak dapat memaksimalkan potensi teknologi dalam mendukung operasional dan strategi bisnis.
+
+Fungsi sistem informasi dari segi bisnis:
+
+Mendukung pengambilan keputusan: Dengan menyediakan data yang relevan dan akurat.
+
+Meningkatkan efisiensi operasional: Otomatisasi proses bisnis yang berulang dan memakan waktu.
+
+Meningkatkan komunikasi dan kolaborasi: Memfasilitasi pertukaran informasi yang cepat dan efektif.
+
+Mendukung inovasi produk dan layanan: Memungkinkan pengembangan produk dan layanan baru.
+
+Meningkatkan kepuasan pelanggan: Dengan menyediakan layanan yang lebih cepat dan responsif.
+
+Mengoptimalkan manajemen sumber daya: Memantau dan mengelola aset organisasi dengan lebih baik.
+
+Saya tidak sepenuhnya setuju. Meski komputer semakin cepat dan murah, serta internet semakin luas digunakan, masalah dalam sistem informasi tidak sepenuhnya hilang. Masalah seperti keamanan data, integrasi sistem, dan pemeliharaan tetap ada. Selain itu, pengembangan teknologi terus membawa tantangan baru yang perlu dihadapi.
+
+Tidak sepenuhnya setuju. Sistem informasi sangat penting, tetapi tidak harus selalu ditangani oleh para ahli komputer. Pengguna non-teknis juga perlu memahami dasar-dasar sistem informasi untuk menjalankan operasional sehari-hari dengan efektif. Kolaborasi antara ahli TI dan pengguna bisnis sangat penting untuk kesuksesan implementasi sistem.
+
+Sistem informasi adalah kombinasi dari teknologi informasi, orang, dan prosedur yang bekerja sama untuk mengumpulkan, memproses, menyimpan, dan mendistribusikan informasi. Data adalah fakta mentah yang belum diolah, sedangkan informasi adalah data yang telah diolah menjadi bentuk yang berguna dan berarti. Contoh dalam dunia manufaktur: Data bisa berupa jumlah unit produksi harian, sedangkan informasi bisa berupa analisis produktivitas pabrik dari data tersebut.
+
+Sistem informasi menjadi bidang penting dalam dunia bisnis karena memungkinkan perusahaan untuk lebih responsif terhadap perubahan pasar, meningkatkan efisiensi operasional, dan membuat keputusan yang lebih baik berdasarkan data. Contohnya, saat awal booming smartphone, perusahaan yang bisa menganalisis data penjualan secara real-time dapat menyesuaikan strategi pemasaran dengan cepat untuk memaksimalkan keuntungan.
+
+Contoh informasi pada tiap tingkatan manajerial:
+
+Top Manager: Laporan kinerja perusahaan, analisis pasar, dan tren industri.
+
+Middle Manager: Laporan departemen, analisis efisiensi operasional, dan laporan anggaran.
+
+First-Line Manager: Laporan harian karyawan, status proyek, dan penggunaan sumber daya.
+
+Staffing: Data kehadiran karyawan, jadwal kerja, dan laporan produktivitas individu.
+
+Contoh sistem informasi: Sistem absensi digital menggunakan fingerprint. Sistem ini diperlukan untuk meningkatkan akurasi data absensi, mengurangi kesalahan manusia, dan mempermudah proses penggajian serta manajemen kehadiran karyawan. Contoh lainnya adalah Smart HR System yang mengintegrasikan data absensi, cuti, lembur, dan penilaian karyawan untuk otomatisasi manajemen sumber daya manusia.
+
+Perbedaan e-commerce dan e-business:
+
+E-commerce: Aktivitas jual beli barang dan jasa melalui internet. Contohnya adalah toko online seperti Tokopedia atau Amazon.
+
+E-business: Semua aktivitas bisnis yang dilakukan secara online, termasuk e-commerce, tetapi juga mencakup aktivitas lain seperti manajemen supply chain, layanan pelanggan, dan kolaborasi internal. Contohnya adalah penggunaan sistem ERP (Enterprise Resource Planning) yang mengintegrasikan berbagai fungsi bisnis dalam satu platform.
